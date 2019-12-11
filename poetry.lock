@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "Pythonic API to Linux uinput kernel module."
+name = "python-uinput"
+optional = false
+python-versions = "*"
+version = "0.11.2"
+
+[metadata]
+content-hash = "103f3f789b82f9bb133687dc39bc42de914b7ebf296a864107b277a57a09e4c1"
+python-versions = "^3.7"
+
+[metadata.hashes]
+python-uinput = ["99392b676c77b5795b86b7d75274db33fe754fd1e06fb3d58b167c797dc47f0c"]
